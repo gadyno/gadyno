@@ -8,8 +8,8 @@
   <div style="display: inline_block"><br>
   <i class="devicon-microsoftsqlserver-plain"></i>
           
-  <img align="center" alt="Gady-SqlServer" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
-  <img align="center" alt="Gady-SqlServer" height="50" width="50" src="https://github.com/gadyno/ProjetoGit/blob/main/bigquery.svg" />
+  <img align="center" alt="Gady-PBI" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
+  <img align="center" alt="Gady-Bigquery" height="50" width="50" src="https://github.com/gadyno/ProjetoGit/blob/main/icons/bigquery.svg" />
 
   
 </div>
