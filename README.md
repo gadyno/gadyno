@@ -6,8 +6,8 @@
 - 📫 Contate-me no email: gadyno@gmail.com
   
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Gady-PBI" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
-  <img align="center" alt="Gady-Bigquery" height="50" width="50" src="https://github.com/gadyno/ProjetoGit/blob/main/icons/bigquery.svg" />
+  <img align="center" alt="Gady-PBI" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
+  <img align="center" alt="Gady-Bigquery" height="40" width="40" src="https://github.com/gadyno/ProjetoGit/blob/main/icons/bigquery.svg" />
 </div>
 
 ##
