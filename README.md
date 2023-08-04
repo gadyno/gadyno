@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: gadyno@gmail.com
   
 
-### Linguagens e Ferramentas
+#### Linguagens e Ferramentas
 <!---
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
